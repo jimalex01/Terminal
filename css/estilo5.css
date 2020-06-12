@@ -1,0 +1,94 @@
+@media screen and (max-width: 480px;){
+	.item{text-align: center;}
+	.item img{width: 40%;}
+	.titulo{width: 100%; margin: 0;}
+}
+.barra{
+	   
+		margin-left:100px;
+}
+.barra2{
+	   
+		margin-left:300px;
+		
+}
+
+h1{
+color: white;
+}
+
+h3{
+color: #4b4b4b;
+}
+
+h2{
+color: #4b4b4b;
+}
+
+.imag{
+	margin-top: 15px;
+	margin-left: 15px;
+}
+.letra{
+	font-size: 20px;
+	color: #000;
+}
+.letra2{
+	margin-top: 20px;
+}
+
+.facebook{
+	width: 50px;
+	height: 50px;
+	margin-left: 650px;
+}
+.instagram{
+	width: 50px;
+	height: 50px;
+	margin-left: 600px;
+	margin-top: -50px;
+}
+.twitter{
+	width: 50px;
+	height: 50px;
+	margin-left: 700px;
+	margin-top: -50px;
+}
+
+#menu{
+
+	float:left;
+	margin-top:0px;
+
+}
+.boton{
+	margin-top: 70px;
+}
+.formulario{
+	margin-left: 50px;
+}
+
+.cuadro{
+	width: 100%;
+	height: 100%
+}
+.color{
+	background-color: #F78181;
+}
+.boton1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.boton2{
+	margin-left: 1070px;
+	margin-top: -20px;
+}
+
+.encabezado{
+	
+	background-image: url("../images/catedral1.jpg");
+	background-repeat: no-repeat;
+	margin-top: -20px;
+	height: 450px;
+	background-size: cover;
+}

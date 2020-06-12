@@ -1,0 +1,79 @@
+@media screen and (max-width: 480px){
+	.item{text-align: center;}
+	.item img{width: 40%;}
+	.titulo{width: 100%; margin: 0;}
+}
+.barra{
+	   
+	margin-left:80px;
+}
+.barra2{
+   
+	margin-left:200px;
+}
+.imag{
+	margin-top: 15px;
+	margin-left: 15px;
+}
+.letra{
+	font-size: 20px;
+	color:#fff;
+}
+.subtitulo{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.principal{
+	margin-top: 40px;
+	font-size: 20px;
+	width: 70%;
+	margin-left: auto;
+	margin-right:auto; 
+}
+.botones{
+	border: #000000 2px solid;
+	border-radius: 20px;
+}
+.colorP{
+	background-color:  #D7DBDD;
+	border: red 2px solid;
+	margin-top: 50px;
+
+}
+.P1{
+	border-radius: 20px;
+}
+.P2{
+	margin-top:20px;
+	border-radius: 20px;
+}
+.P3{
+	margin-top:20px;
+	border-radius: 20px;
+}
+.P4{
+	margin-top: 20px;
+	border-radius: 20px;
+}
+.caja2{
+	text-align:center;
+	margin-top: 30px;
+}
+.B1{
+	border-radius: 10px;
+	border: #000000 1px solid;
+}
+.B2{
+	border-radius: 10px;
+	border: #000000 1px solid;
+}
+.b1, .b2{
+	border-radius: 10px;
+	width: 25%;
+	font-size: 17px;
+}
+.b1{
+	background-color:#51E775;
+}
+.b2{
+	background-color:#E75A51;
+}

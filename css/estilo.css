@@ -1,0 +1,129 @@
+@media screen and (max-width: 480px;){
+	.item{text-align: center;}
+	.item img{width: 40%;}
+	.titulo{width: 100%; margin: 0;}
+}
+.barra{
+	   
+		margin-left:70px;
+}
+.barra2{
+	   
+		margin-left:200px;
+}
+.imag{
+	margin-top: 15px;
+	margin-left: 15px;
+}
+.letra{
+	font-size: 20px;
+	color: #000;
+}
+.principal{
+	margin-top: 40px;
+	font-size: 20px;
+}
+.viaje{
+	margin-top: 30px;
+}
+.cuadro{
+	height: 210px;
+	border: red 5px solid;
+	margin-top: 10px;
+}
+.cuadro2{
+	height: 210px;
+	border: red 5px solid;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.foto{
+	margin-top: 20px;
+}
+.foto2{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.letra2{
+	margin-top: 20px;
+	background-color: #fff;
+}
+h4{
+	color: #fff;
+	font-size: 15px;
+	font-weight: bold;
+}
+.facebook{
+	width: 50px;
+	height: 50px;
+	margin-left: 650px;
+}
+.instagram{
+	width: 50px;
+	height: 50px;
+	margin-left: 600px;
+	margin-top: -50px;
+}
+.twitter{
+	width: 50px;
+	height: 50px;
+	margin-left: 700px;
+	margin-top: -50px;
+}
+.colorP{
+	background-color:  #D7DBDD;
+	border: red 2px solid;
+	margin-top: 50px;
+
+}
+.P1{
+	border-radius: 20px;
+}
+.P2{
+	margin-top:20px;
+	border-radius: 20px;
+}
+.P3{
+	margin-top:20px;
+	border-radius: 20px;
+}
+.P4{
+	margin-top: 2px;
+	border-radius: 20px;
+}
+.fa{
+	width: 50px;
+	height: 50px;
+	margin-top: 50px;
+}
+.ins{
+	width: 50px;
+	height: 50px;
+	margin-left: 100px;
+	margin-top: -50px;
+	
+}
+.tw{
+	width: 50px;
+	height: 50px;
+	margin-left: 200px;
+	margin-top: -50px;
+	
+}
+.usuarios{
+	margin-left: 120px;
+	margin-top: -65px;
+	 
+}
+.clientes{
+	margin-left: -80px;
+
+}
+.color{
+    color:#ff0000;"
+}
+
+#myDIV {
+  color: White; /* Blue text color */
+  border: 10px  currentcolor; /* Blue border color */
+}

@@ -1,0 +1,84 @@
+@media screen and (max-width: 480px;){
+	.item{text-align: center;}
+	.item img{width: 40%;}
+	.titulo{width: 100%; margin: 0;}
+}
+.barra{
+	   
+		margin-left:100px;
+}
+.barra2{
+	   
+		margin-left:300px;
+		
+}
+.imag{
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+
+.cuadro{
+	border: 2px solid #fff;
+	margin-bottom: 20px;
+}
+.cuadro4{
+	height: 210px;
+	border: red 5px solid;
+	margin-top: 10px;
+}
+.cuadro2{
+	height: 210px;
+	border: red 5px solid;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.facebook{
+	width: 50px;
+	height: 50px;
+	margin-left: 650px;
+}
+.instagram{
+	width: 50px;
+	height: 50px;
+	margin-left: 600px;
+	margin-top: -50px;
+}
+.twitter{
+	width: 50px;
+	height: 50px;
+	margin-left: 700px;
+	margin-top: -50px;
+}
+
+.foto{
+	margin-top: 20px;
+}
+.foto2{
+	margin-top: 20px;
+}
+.letra2{
+	margin-top: 30px;
+}
+
+.colorP{
+	background-color:  #D7DBDD;
+	border: red 2px solid;
+	margin-top: 50px;
+
+}
+.P1{
+	border-radius: 20px;
+}
+.P2{
+	margin-top:20px;
+	border-radius: 20px;
+}
+.P3{
+	margin-top:20px;
+	border-radius: 20px;
+}
+.P4{
+	margin-top: 22px;
+	border-radius: 20px;
+}

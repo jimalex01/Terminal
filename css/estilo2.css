@@ -1,0 +1,88 @@
+@media screen and (max-width: 480px;){
+	.item{text-align: center;}
+	.item img{width: 40%;}
+	.titulo{width: 100%; margin: 0;}
+}
+.barra{
+	   
+		margin-left:80px;
+}
+.barra2{
+	   
+		margin-left:200px;
+		
+}
+.imag{
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+.letra{
+	font-size: 20px;
+	color: #000;
+}
+.letra2{
+	margin-top: 20px;
+}
+.cuadro{
+	border: red 1px dashed;
+	margin-top: 50px;
+	}
+.T1{
+
+	filter: saturate(180%);
+	margin-left: 30px;
+	border-radius: 20px;
+	margin-top: 10px;
+	box-shadow: 5px 5px 10px  #EC7063;  
+}
+.T2{
+	margin-left: 35px;
+	border-radius: 20px;
+	margin-top: 10px;
+    box-shadow: 5px 5px 10px  #EC7063;  
+
+}
+.T3{
+	margin-left: 20px;
+	border-radius: 20px;
+	margin-top: 10px;
+	box-shadow: 5px 5px 10px  #EC7063;  
+}
+.color1{
+	color:#B71C1C;
+
+}
+.negro{
+		color:#000000;
+}
+.facebook{
+	width: 50px;
+	height: 50px;
+	margin-left: 650px;
+}
+.instagram{
+	width: 50px;
+	height: 50px;
+	margin-left: 600px;
+	margin-top: -50px;
+}
+.twitter{
+	width: 50px;
+	height: 50px;
+	margin-left: 700px;
+	margin-top: -50px;
+}
+
+#menu{
+
+	float:left;
+	margin-top:0px;
+
+}
+.imagen:hover {filter: opacity(.5);
+}
+.valores{
+	margin-left: 20px;
+	
+}

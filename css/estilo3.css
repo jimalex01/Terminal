@@ -1,0 +1,81 @@
+@media screen and (max-width: 480px;){
+	.item{text-align: center;}
+	.item img{width: 40%;}
+	.titulo{width: 100%; margin: 0;}
+}
+.barra{
+	   
+		margin-left:100px;
+}
+.barra2{
+	   
+		margin-left:300px;
+		
+}
+.imag{
+	margin-top: 15px;
+	margin-left: 15px;
+}
+.letra{
+	font-size: 20px;
+	color: #000;
+}
+.letra2{
+	margin-top: 20px;
+}
+
+.facebook{
+	width: 50px;
+	height: 50px;
+	margin-left: 650px;
+}
+.instagram{
+	width: 50px;
+	height: 50px;
+	margin-left: 600px;
+	margin-top: -50px;
+}
+.twitter{
+	width: 50px;
+	height: 50px;
+	margin-left: 700px;
+	margin-top: -50px;
+}
+
+#menu{
+
+	float:left;
+	margin-top:0px;
+
+}
+
+.encabezado{
+	
+	background-image: url("../images/encabezado.jpg");
+	background-repeat: no-repeat;
+	margin-top: -20px;
+	height: 200px;
+	background-size: cover;
+}
+.destino{
+	margin-left: 55px;
+	margin-top: 50px;
+	width: 200px;
+	border-radius: 20px;	
+}
+.foto1{
+	margin-top: 40px;
+}
+.foto2{
+	margin-top: 40px;
+}
+.foto3{
+	margin-top: 40px;
+}
+.foto4{
+	margin-top: 40px;
+}
+.foto5{
+	margin-top: 40px;
+}
+

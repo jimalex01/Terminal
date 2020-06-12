@@ -1,0 +1,67 @@
+.container{
+height: 200px;
+}
+
+.item{
+	height: 200px;
+	background-image: url("../imagenes/fondo.jpg");
+	background-size: contain;
+	width: 100%;
+}
+.item img{width: 20%;}
+
+
+.titulo{
+	margin: 0 auto;
+	float: right;
+	width: 80%;
+	margin-top: 60px;
+}
+.caja2{margin-left: 75px;
+}
+ 
+
+.color{
+	background-color: #7BFFFB;
+	border: 1px solid #000;
+	
+
+}
+
+
+@media screen and (max-width: 480px){
+	.item{text-align: center;}
+	.item img{width: 40%;}
+	.titulo{width: 100%;margin: 0;}
+	.mapa1{width: 70px;height: 70px;}
+		.mapa2{width: 80px;height: 80px;
+}
+.mapa3{width: 70px;height: 70px;
+}
+.mapa4{width: 60px;height: 60px;
+}
+}
+
+
+.pie{
+	height: 155px;
+	background-image: url("../imagenes/fondo.jpg");
+	background-size: contain;
+	width:100%; 
+	left: 10;
+	margin-top: 40px;
+}
+p{
+   color:#000;
+   text-align:center;
+   font-size: 15px;
+   font-family:Georgia;
+  
+
+}
+.derei{float: right;}
+.pie img{display: inline-block;}
+aside{
+	background:#fff;
+	height:80px; 
+}

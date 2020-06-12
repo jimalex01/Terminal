@@ -1,0 +1,58 @@
+@media screen and (max-width: 480px){
+	.item{text-align: center;}
+	.item img{width: 40%;}
+	.titulo{width: 100%; margin: 0;}
+}
+.letra{
+	font-size: 20px;
+	color:#fff;
+}
+.subtitulo{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.principal{
+	margin-top: 40px;
+	font-size: 20px;
+	width: 70%;
+	margin-left: auto;
+	margin-right:auto; 
+}
+.principal2{
+	margin-top: 40px;
+	font-size: 20px;
+	width: 50%;
+	margin-left: auto;
+	margin-right:auto; 
+}
+
+.botones{
+	border: #000000 2px solid;
+	border-radius: 20px;
+}
+
+
+.colorP{
+	background-color:  #D7DBDD;
+	border: red 2px solid;
+	margin-top: 50px;
+
+}
+.P1{
+	margin-left: 90px;
+	border-radius: 20px;
+}
+.P2{
+	margin-left: 330px;
+	margin-top: -80px;
+	border-radius: 20px;
+}
+.P3{
+	margin-left: 680px;
+	margin-top: -63px;
+	border-radius: 20px;
+}
+.P4{
+	margin-left: 1000px;
+	margin-top: -78px;
+	border-radius: 20px;
+}
