@@ -138,7 +138,7 @@ include('sesion_usuario.php');
 	 	 <img src="images/P3.png" class="img-responsive P3 " alt="" width="250px" height="200px">
 	 	 <img src="images/P4.png" class="img-responsive P4 " alt="" width="180px" height="200px">
 	 	 <br>
-  	 	 <center><h4 style="color:#000">Todos los derechos reservados © 2019 Terminal de Transporte S.A | Diseño y Desarrollo Web.</h4></center>
+  	 	 <center><h4 style="color:#4b4b4b">Todos los derechos reservados © 2020 Terminal de Trasnporte S.A | Diseño y Desarrollo Web.</h4></center>
  </div>
     <!-- jQuery first, then Tether, then Bootstrap JS. -->
  <script src="js/jquery.js"></script>

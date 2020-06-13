@@ -1,3 +1,6 @@
+<?php
+include("sesion_usuario.php");
+?>
 <!DOCTYPE html>
 <html lang="es">
 
@@ -27,10 +30,6 @@
   </div>
 </section>
 <br>
-<form action="actualizaaa.php?id=<?php echo $row['id'];?>" method="post">
-<section class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-  <legend class="text-center header">MODIFICAR RUTAS</legend>
-
   <?php
   $id=$_REQUEST['id'];
   include("conexion.php");
@@ -39,6 +38,9 @@
   $resultado= $conexion->query($query);
   $row=$resultado->fetch_assoc();
   ?>
+  <form action="actualizaaa.php?id=<?php echo $row['ID'];?>" method="post">
+<section class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+  <legend class="text-center header">MODIFICAR RUTAS</legend>
   <center><table>
     <tr>
     <td><strong><label>ID</label></strong></td>
@@ -48,11 +50,11 @@
     <td><strong> <label>PRECIO</label></strong></td>
     </tr>
     <tr>
-    <td><strong><input type="text" value="<?php echo $row['id'];?>" name="id" REQUIRED/></strong></td>
-    <td><strong><input type="text" value="<?php echo $row['destino'];?>" name="destino" REQUIRED/></strong></td>
-    <td><strong><input type="text" value="<?php echo $row['empresa'];?>" name="empresa" REQUIRED/></strong></td>
-    <td><strong><input type="text" value="<?php echo $row['hsalida'];?>" name="hsalida" REQUIRED/></strong></td>
-    <td><strong><input type="text" value="<?php echo $row['precio'];?>" name="precio" REQUIRED/></strong></td>
+    <td><strong><input type="text" value="<?php echo $row['ID'];?>" name="id" REQUIRED/></strong></td>
+    <td><strong><input type="text" value="<?php echo $row['DESTINO'];?>" name="destino" REQUIRED/></strong></td>
+    <td><strong><input type="text" value="<?php echo $row['EMPRESA'];?>" name="empresa" REQUIRED/></strong></td>
+    <td><strong><input type="text" value="<?php echo $row['HSALIDA'];?>" name="hsalida" REQUIRED/></strong></td>
+    <td><strong><input type="text" value="<?php echo $row['PRECIO'];?>" name="precio" REQUIRED/></strong></td>
     </tr>
     </table></center>
     <br>
@@ -84,7 +86,7 @@
      </div>
          <br>
       <div class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
-         <center><h4 style="color:#000">Todos los derechos reservados © 2019 Terminal de Trasnporte S.A | Diseño y Desarrollo Web.</h4></center>
+         <center><h4 style="color:#4b4b4b">Todos los derechos reservados © 2020 Terminal de Trasnporte S.A | Diseño y Desarrollo Web.</h4></center>
      </div>
 </div>
     <script src="js/jquery.js "></script>

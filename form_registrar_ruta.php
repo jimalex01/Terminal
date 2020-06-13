@@ -85,7 +85,8 @@ include("sesion_usuario.php");
      </div>
          <br>
       <div class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
-         <center><h4 style="color:#000">Todos los derechos reservados © 2019 Terminal de Trasnporte S.A | Diseño y Desarrollo Web.</h4></center>
+         <center><h4 style="color:#4b4b4b">Todos los derechos reservados © 2020 Terminal de Trasnporte S.A | Diseño y Desarrollo Web.</h4></center>
+
      </div>
 </div>
     <script src="js/jquery.js "></script>

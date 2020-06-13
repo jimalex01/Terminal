@@ -121,13 +121,13 @@ include('sesion_cliente.php');
             </div>
           </div>
           <div class=" col-xs-12 col-sm-12 col-md-12 col-lg-12"> 
-            <center> <button class="btn btn-danger my-2 my-sm-0 boton" type="submit" name="enviando" onclick=" location.href='exitosa.html' ">Comprar</button>
+            <center> <button class="btn btn-danger my-2 my-sm-0 boton" type="submit" name="enviando" >Comprar</button>
             </form>
             <p><h4><center>Tus compras son seguras con nosotros...</center></h4></p>
           </div>
     </div>
    </div>
-   <div class=" col-xs-12 col-sm-12 col-md-12 col-lg-4"> 
+      <div class=" col-xs-12 col-sm-12 col-md-12 col-lg-4"> 
       <div class=" col-xs-12 col-sm-12 col-md-12 col-lg-5 cuadro4"> 
        <img src="images/busca.png" class="img-responsive" alt="" >
        <center><h4><b>Busca y Compra</b></h4></center>
@@ -151,8 +151,6 @@ include('sesion_cliente.php');
    </div>
 </div>
 <?php
-
-
 if (isset($_POST['enviando'])) {
  $documento= $_POST['doc'];
 $npasajes= $_POST['cantipasajes'];
@@ -183,12 +181,10 @@ $cvv= $_POST['cvv'];
                 echo "	<th>$cvv</th>";
 		echo "</tr>";
 		echo "</thead>";
-		echo "<tbody>";
+    echo "</table>";
 }
 
 ?>
-
-
  <div class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 letra2"> 
    <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse" >
        <center><h4 style="color:#4b4b4b">Todos los derechos reservados © 2020 Terminal de Trasnporte S.A | Diseño y Desarrollo Web.</h4></center>
